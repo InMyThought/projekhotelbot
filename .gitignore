@@ -1,0 +1,29 @@
+# --- WhatsApp Baileys Session (PENTING: JANGAN DI UPLOAD) ---
+frontend/HotelBot/auth_info_baileys/
+auth_info_baileys/
+
+# --- Dependency Directories (Node.js) ---
+node_modules/
+frontend/HotelBot/node_modules/
+.npm
+# package-lock.json
+
+# --- Python & Django (Virtual Env & Cache) ---
+backend/venv/
+backend/env/
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django local settings & db
+db.sqlite3
+.env
+
+# --- System Files ---
+.DS_Store
+Thumbs.db

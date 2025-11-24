@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Reservasi - Hotel Maju Jaya</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #f8f9fa; }
+        .container { max-width: 1100px; }
+        .card-img-top { width: 100%; height: 200px; object-fit: cover; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container">
+            <span class="navbar-brand mb-0 h1">🏨 Halaman Reservasi & Daftar Kamar</span>
+            <a href="/" class="btn btn-outline-light btn-sm">Kembali ke Dashboard</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <div class="card mb-4 border-primary">
+            <div class="card-header bg-primary text-white">
+                Buat Reservasi (Otomatis)
+            </div>
+            <div class="card-body">
+                <form method="POST" action="" class="row g-3">
+                    {% csrf_token %}
+                    <div class="col-md-4">
+                        <label for="nama_tamu" class="form-label">Nama Tamu</label>
+                        <input type="text" class="form-control" id="nama_tamu" name="nama_tamu" value="{{ form_values.nama_tamu }}" required>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="tipe_kamar" class="form-label">Tipe Kamar</label>
+                        <select id="tipe_kamar" name="tipe_kamar" class="form-select" required>
+                            <option value="">-- Pilih Tipe --</option>
+                            {% for tipe in tipe_kamar_list %}
+                            <option value="{{ tipe }}" {% if form_values.tipe_kamar == tipe %}selected{% endif %}>
+                                {{ tipe }}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label for="check_in" class="form-label">Check-in</label>
+                        <input type="date" class="form-select" id="check_in" name="check_in" value="{{ form_values.check_in }}" required>
+                    </div>
+                    <div class="col-md-2">
+                        <label for="check_out" class="form-label">Check-out</label>
+                        <input type="date" class="form-select" id="check_out" name="check_out" value="{{ form_values.check_out }}" required>
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary w-100">
+                            Buat Reservasi Sekarang
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        {% if hasil_cek %}
+            {% if hasil_cek.status == "Sukses" %}
+            <div class="alert alert-success">
+                <h4 class="alert-heading">Reservasi Berhasil!</h4>
+                <p>{{ hasil_cek.message }}</p>
+                <hr>
+                <p class="mb-0">Silakan lakukan pembayaran di resepsionis saat check-in.</p>
+            </div>
+            {% elif hasil_cek.status == "Penuh" %}
+            <div class="alert alert-danger">
+                <strong>Mohon Maaf.</strong> Kamar tipe <strong>{{ hasil_cek.tipe_kamar }}</strong> PENUH untuk tanggal {{ hasil_cek.check_in }} sampai {{ hasil_cek.check_out }}.
+            </div>
+            {% elif hasil_cek.status == "Error" %}
+            <div class="alert alert-warning">
+                <strong>Oops!</strong> {{ hasil_cek.message }}
+            </div>
+            {% endif %}
+        {% endif %}
+        
+        <hr class="my-4">
+
+        <h2>Brosur Daftar Kamar</h2>
+        <div class="mb-3">
+            <input type="text" class="form-control" id="searchKamar" placeholder="Cari fasilitas di brosur (misal: bathtub)...">
+        </div>
+        <div class="row row-cols-1 row-cols-md-3 g-4" id="kamarListContainer">
+            {% for kamar in kamar_list %}
+            <div class="col kamar-card">
+                <div class="card h-100">
+                    <img src="{{ kamar.url_gambar|default:'https://via.placeholder.com/300x200.png?text=Tanpa+Gambar' }}" class="card-img-top" alt="{{ kamar.tipe_kamar }}">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ kamar.nomor_kamar }} - {{ kamar.tipe_kamar }}</h5>
+                        <h6 class="card-subtitle mb-2 text-success">
+                            Rp {{ kamar.harga_per_malam|floatformat:0 }}
+                            {% if kamar.diskon_persen > 0 %}<span class="badge bg-danger">{{ kamar.diskon_persen }}% OFF</span>{% endif %}
+                        </h6>
+                        <p class="card-text"><strong>Kapasitas:</strong> {{ kamar.kapasitas }} orang<br><strong>Fasilitas:</strong> {{ kamar.fasilitas }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    
+    <footer class="text-center text-muted py-4 mt-5 bg-light">
+        <p>Sistem Viewer Internal Hotel Maju Jaya</p>
+    </footer>
+
+    <script>
+        document.getElementById('searchKamar').addEventListener('keyup', function() {
+            let filter = this.value.toLowerCase();
+            let container = document.getElementById('kamarListContainer');
+            let cards = container.getElementsByClassName('kamar-card');
+            for (let card of cards) {
+                let textContent = card.textContent || card.innerText;
+                card.style.display = textContent.toLowerCase().indexOf(filter) > -1 ? "" : "none";
+            }
+        });
+    </script>
+</body>
+</html>

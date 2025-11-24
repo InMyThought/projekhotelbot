@@ -1,0 +1,336 @@
+{
+  "6285187269581": [
+    {
+      "role": "user",
+      "text": "saya ada 10 orang 1 wanita 9 laki laki mau honeymoon giman ya"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi, Bapak/Ibu.\n\nTerima kasih atas minat Anda di Hotel Maju Jaya. Untuk kebutuhan akomodasi 10 orang dengan permintaan khusus seperti bulan madu, kami sarankan Anda untuk langsung mengunjungi **website resmi** kami.\n\nDi sana, Anda bisa melihat berbagai pilihan kamar, mengecek ketersediaan untuk jumlah tamu yang Anda sebutkan, serta mencari tahu mengenai paket atau penawaran khusus yang mungkin cocok untuk rombongan Anda.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "halo"
+    },
+    {
+      "role": "model",
+      "text": "Halo, Bapak/Ibu. Selamat datang di Hotel Maju Jaya.\n\nAda yang bisa saya bantu hari ini?"
+    },
+    {
+      "role": "user",
+      "text": "apa ada kmar"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi, Bapak/Ibu.\n\nTentu, untuk mengecek ketersediaan kamar yang ada di Hotel Maju Jaya secara real-time, Anda bisa langsung mengunjungi **website resmi** kami. Di sana, Anda bisa melihat semua pilihan kamar serta ketersediaannya.\n\nSilakan cek langsung di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "saran kamar"
+    },
+    {
+      "role": "model",
+      "text": "Halo, Bapak/Ibu. Selamat datang di Hotel Maju Jaya.\n\nUntuk mendapatkan gambaran lengkap mengenai tipe-tipe kamar yang kami sediakan dan membantu Anda memilih yang paling sesuai dengan kebutuhan, saya sarankan Anda untuk mengunjungi **website resmi** kami. Di sana, Anda bisa melihat deskripsi detail setiap kamar, fasilitasnya, serta gambar-gambar yang dapat membantu Anda dalam membuat keputusan.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nJika ada pertanyaan lain setelah melihat-lihat di website, jangan ragu untuk bertanya kepada saya."
+    },
+    {
+      "role": "user",
+      "text": "saya ada 10 orang mau nginep di hotel saranya apa yang cocok"
+    },
+    {
+      "role": "model",
+      "text": "🙏 Maaf, sistem sedang sibuk. Silakan coba lagi beberapa saat lagi."
+    },
+    {
+      "role": "user",
+      "text": "saya ada 10 orang mau nginep di hotel saranya apa yang cocok"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi, Bapak/Ibu.\n\nUntuk rombongan 10 orang yang ingin menginap di Hotel Maju Jaya, kami sangat merekomendasikan Anda untuk mengunjungi **website resmi** kami.\n\nDi sana, Anda bisa melihat berbagai pilihan tipe kamar yang tersedia beserta kapasitasnya secara lengkap, sehingga Anda dapat memilih kombinasi kamar yang paling sesuai dan nyaman untuk rombongan Anda.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "kalau 3 orang"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, sistem sedang mengalami kendala."
+    }
+  ],
+  "6281270421387": [
+    {
+      "role": "user",
+      "text": "Iya vid"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, sistem sedang mengalami kendala."
+    },
+    {
+      "role": "user",
+      "text": "David"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu. Sebagai Resepsionis AI Hotel Maju Jaya, saya hanya dapat memberikan informasi terkait kamar, fasilitas, reservasi, atau pertanyaan umum seputar hotel kami. Apakah ada yang bisa saya bantu terkait layanan hotel?"
+    },
+    {
+      "role": "user",
+      "text": "iya??"
+    },
+    {
+      "role": "model",
+      "text": "Baik, Bapak/Ibu. Apakah ada yang ingin Anda tanyakan mengenai kamar, fasilitas, atau mungkin ada hal lain terkait Hotel Maju Jaya yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "recomendasi kamar untuk 30 orang"
+    },
+    {
+      "role": "model",
+      "text": "Baik, Bapak/Ibu. Untuk rombongan sebanyak 30 orang, Anda akan membutuhkan beberapa kamar. Tipe kamar terbesar kami adalah **Presidential Suite** yang memiliki kapasitas untuk 6 orang per kamar. Anda dapat mempertimbangkan untuk memesan beberapa kamar tipe tersebut.\n\nUntuk detail lengkap mengenai pemesanan grup dan ketersediaan, serta untuk melakukan pemesanan, silakan kunjungi website resmi kami: http://192.168.22.31:8000. Kami akan dengan senang hati membantu Anda merencanakan akomodasi yang sesuai."
+    },
+    {
+      "role": "user",
+      "text": "kalau untuk bulan madu enaknya kamar apa"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nUntuk bulan madu, saya merekomendasikan **Suite** kami. Kamar ini dilengkapi dengan fasilitas AC, TV, **bathtub**, **balkon**, dan **ruang tamu terpisah** yang dapat memberikan suasana lebih privat dan romantis untuk Anda berdua.\n\nUntuk mengecek ketersediaan dan harga di tanggal yang Anda inginkan, serta untuk melakukan pemesanan, silakan kunjungi website resmi kami di: http://192.168.22.31:8000. Kami akan sangat senang menyambut Anda di Hotel Maju Jaya."
+    },
+    {
+      "role": "user",
+      "text": "kalau penyewaan ruangan seperti hall"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nTentu, Hotel Maju Jaya menyediakan fasilitas penyewaan ruangan untuk pertemuan atau acara, yang kami sebut sebagai ruang meeting. Ruangan kami memiliki kapasitas hingga 50 orang.\n\nUntuk informasi lebih lanjut mengenai detail penyewaan, ketersediaan, dan harga, serta untuk melakukan pemesanan, silakan kunjungi website resmi kami di: http://192.168.22.31:8000. Kami siap membantu Anda."
+    },
+    {
+      "role": "user",
+      "text": "kapan hari tutup"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nHotel Maju Jaya beroperasi 24 jam setiap hari, sehingga kami tidak memiliki hari tutup. Kami siap melayani Anda kapan saja.\n\nApakah ada hal lain yang bisa saya bantu terkait informasi kamar, fasilitas, atau layanan hotel kami?"
+    }
+  ],
+  "628980006817-1601206596": [
+    {
+      "role": "user",
+      "text": "Assalamualaikum wr wb permisi mohon maaf Bu saya Andrew Prastama Putra dengan nim 242012154 mohon izin tidak dapat mengikuti kelas mata kuliah kecerdasan buatan pada hari ini dikarenakan kondisi badan kurang enak untuk mengikuti kelas hari ini untuk itu sekali lagi saya mohon maaf bu\nwassalamu'alaikum wr wb🙏🏻"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, fokus saya adalah membantu Anda terkait layanan di Hotel Maju Jaya."
+    }
+  ],
+  "6285608966404": [
+    {
+      "role": "user",
+      "text": "mungkin itu dulu aja yg ingin sy tau"
+    },
+    {
+      "role": "model",
+      "text": "Baik, Bapak/Ibu. Senang bisa membantu Anda.\n\nJika nanti ada pertanyaan lain mengenai kamar, fasilitas, atau ingin melakukan reservasi, jangan sungkan untuk bertanya kembali kepada saya. Saya siap membantu Anda. 😊"
+    },
+    {
+      "role": "user",
+      "text": "untuk kamar total berapa yg tersedia"
+    },
+    {
+      "role": "model",
+      "text": "Tentu, Bapak/Ibu. Saat ini, Hotel Maju Jaya memiliki **9 kamar** yang tersedia dari berbagai tipe.\n\nJika Anda ingin mengetahui detail lebih lanjut mengenai tipe kamar, harga, atau fasilitasnya, mohon informasikan kepada saya. Saya siap membantu Anda. 😊"
+    },
+    {
+      "role": "user",
+      "text": "iya syg ingin"
+    },
+    {
+      "role": "model",
+      "text": "Tentu, Bapak/Ibu. Dengan senang hati saya akan berikan detail mengenai kamar-kamar yang tersedia di Hotel Maju Jaya:\n\nSaat ini kami memiliki beberapa pilihan kamar yang siap menyambut Anda:\n\n*   **Tipe Standard**:\n    *   Harga normal: Rp 450.000 per malam.\n    *   Kapasitas: 2 orang.\n    *   Fasilitas: AC, TV, Kamar mandi dalam, Wi-Fi gratis.\n    *   Kami punya kamar Standard dengan **diskon 10%** sebagai **Promo Awal Minggu**! Dari harga Rp 450.000, kini hanya **Rp 405.000** per malam.\n*   **Tipe Superior**:\n    *   Harga normal: Rp 550.000 per malam.\n    *   Kapasitas: 2 orang.\n    *   Fasilitas: AC, TV, Air panas, Balkon kecil, Wi-Fi gratis.\n    *   Nikmati **diskon 5%** untuk tipe ini sebagai **Diskon Member**, sehingga harganya menjadi **Rp 522.500** per malam.\n*   **Tipe Deluxe**:\n    *   Harga normal: Rp 650.000 per malam.\n    *   Kapasitas: 3 orang.\n    *   Fasilitas: AC, TV, Air panas, Balkon, Wi-Fi gratis, Sarapan.\n    *   Ada **diskon menarik 15%** untuk kamar Deluxe dalam **Diskon Akhir Pekan**! Harganya kini hanya **Rp 552.500** per malam.\n*   **Tipe Suite**:\n    *   Harga normal: Rp 950.000 per malam.\n    *   Kapasitas: 4 orang.\n    *   Fasilitas: AC, TV, Bathtub, Balkon, Ruang tamu, Wi-Fi, Sarapan.\n    *   Dapatkan **diskon 20%** dengan **Promo Musim Liburan**, menjadikannya **Rp 760.000** per malam.\n*   **Tipe Family Suite**:\n    *   Harga normal: Rp 1.250.000 per malam.\n    *   Kapasitas: 5 orang.\n    *   Fasilitas: 2 Kamar tidur, Ruang tamu, Dapur kecil, Balkon, Wi-Fi.\n    *   Kami berikan **diskon 10%** sebagai **Diskon Liburan Keluarga**, jadi harganya **Rp 1.125.000** per malam.\n*   **Tipe Presidential Suite**:\n    *   Harga normal: Rp 3.500.000 per malam.\n    *   Kapasitas: 6 orang.\n    *   Fasilitas: 3 Kamar tidur, Jacuzzi, Ruang tamu luas, Private bar, Balkon besar.\n    *   Ada **diskon istimewa 25%** sebagai **VIP Promo**, membuat harganya menjadi **Rp 2.625.000** per malam.\n\nSemua kamar yang saya sebutkan di atas saat ini berstatus Tersedia.\n\nApakah Anda tertarik dengan salah satu tipe kamar ini atau ingin saya bantu untuk proses reservasi? Jangan ragu untuk bertanya."
+    },
+    {
+      "role": "user",
+      "text": "Disini harganya agak mahal ya"
+    },
+    {
+      "role": "model",
+      "text": "Terima kasih atas masukan Bapak/Ibu. Kami memahami pertimbangan Anda mengenai harga.\n\nDi Hotel Maju Jaya, kami berkomitmen untuk memberikan **kenyamanan dan pelayanan terbaik** bagi setiap tamu, didukung oleh fasilitas yang lengkap seperti AC, TV layar datar, Wi-Fi gratis, serta kamar mandi dalam di setiap kamar. Lokasi kami juga strategis, dekat dengan pusat kota dan area wisata.\n\nSebagai tambahan, kami juga sering menawarkan promo menarik. Seperti yang sudah saya sampaikan sebelumnya, saat ini kami memiliki beberapa kamar dengan diskon spesial:\n*   Kamar **Standard** dengan **diskon 10%** menjadi **Rp 405.000** per malam.\n*   Kamar **Superior** dengan **diskon 5%** menjadi **Rp 522.500** per malam.\n*   Kamar **Deluxe** dengan **diskon 15%** menjadi **Rp 552.500** per malam.\n*   Kamar **Suite** dengan **diskon 20%** menjadi **Rp 760.000** per malam.\n*   Kamar **Family Suite** dengan **diskon 10%** menjadi **Rp 1.125.000** per malam.\n*   Kamar **Presidential Suite** dengan **diskon 25%** menjadi **Rp 2.625.000** per malam.\n\nApakah ada tipe kamar atau fasilitas tertentu yang ingin Anda sesuaikan dengan anggaran atau kebutuhan Anda? Saya siap membantu Anda menemukan pilihan terbaik."
+    },
+    {
+      "role": "user",
+      "text": "Kamar standar"
+    },
+    {
+      "role": "model",
+      "text": "Baik, Bapak/Ibu. Untuk tipe kamar **Standard**, berikut detailnya:\n\n*   **Harga Normal:** Rp 450.000 per malam.\n*   **Kapasitas:** Mampu menampung 2 orang.\n*   **Fasilitas:** Setiap kamar dilengkapi dengan AC, TV, kamar mandi dalam, dan Wi-Fi gratis.\n*   **Ketersediaan:** Saat ini ada 2 kamar tipe Standard yang tersedia (Nomor Kamar 101 dan 102).\n\nKami juga memiliki penawaran spesial untuk kamar Standard:\n*   Salah satu kamar Standard sedang ada **Promo Awal Minggu** dengan **diskon 10%**. Jadi, harganya menjadi hanya **Rp 405.000** per malam!\n\nApakah Anda ingin memesan kamar Standard ini atau ada pertanyaan lainnya? Saya siap membantu."
+    },
+    {
+      "role": "user",
+      "text": "Halo"
+    },
+    {
+      "role": "model",
+      "text": "Halo Bapak/Ibu, selamat datang kembali di Hotel Maju Jaya.\n\nDengan Jaya di sini, Resepsionis AI Anda. Ada yang bisa saya bantu hari ini?"
+    },
+    {
+      "role": "user",
+      "text": "Mau tanya reservasi hotel"
+    },
+    {
+      "role": "model",
+      "text": "Tentu, Bapak/Ibu. Dengan senang hati saya akan bantu Anda mengenai reservasi hotel.\n\nUntuk mempermudah proses reservasi dan memastikan semua detail sesuai dengan keinginan Anda, saya sarankan untuk melanjutkan pemesanan melalui layanan WhatsApp kami. Anda bisa langsung mengklik link berikut atau menyimpan nomornya:\n\n[**Klik untuk Reservasi via WhatsApp**](https://wa.me/6281515329143)\n\nAtau Anda bisa menghubungi nomor ini: **081515329143**.\n\nTim kami akan dengan sigap membantu Anda memilih kamar dan menyelesaikan proses reservasi. Apakah ada informasi lain yang Anda butuhkan sebelum melanjutkan?"
+    }
+  ],
+  "6285732949413": [
+    {
+      "role": "user",
+      "text": "kok dua orang, aku kan berlima sama teman"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf atas kesalahpahaman sebelumnya, Bapak/Ibu.\n\nBetul sekali, untuk standar semua harga kamar di Hotel Maju Jaya memang **sudah termasuk sarapan untuk dua orang**.\n\nJika Anda berencana menginap berlima, sarapan untuk tiga orang lainnya dapat ditambahkan dengan biaya **Rp50.000 per orang**.\n\nApakah ada tipe kamar yang Bapak/Ibu minati yang bisa menampung 5 orang? Saya bisa bantu cekkan informasinya. Atau ada pertanyaan lain terkait sarapan?"
+    },
+    {
+      "role": "user",
+      "text": "alah mahal"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu, saya memahami bahwa biaya tambahan bisa menjadi pertimbangan.\n\nUntuk kebijakan sarapan di Hotel Maju Jaya, memang standar kami menyediakan sarapan gratis untuk dua orang per kamar. Biaya Rp50.000 per orang dikenakan untuk penambahan sarapan bagi tamu lainnya.\n\nJika Bapak/Ibu mencari kamar yang dapat menampung lima orang dengan fasilitas lengkap, kami memiliki pilihan seperti **Family Suite** yang berkapasitas 5 orang, atau **Presidential Suite** untuk 6 orang, yang juga sedang ada **Diskon Liburan Keluarga 10%** dan **VIP Promo 25%** untuk Presidential Suite. Harga kamar-kamar ini mungkin lebih tinggi, namun menawarkan kenyamanan dan fasilitas yang lebih luas.\n\nApakah ada tipe kamar lain yang ingin Bapak/Ibu tinjau, atau ada fasilitas spesifik yang menjadi prioritas Anda agar saya bisa membantu mencarikan pilihan yang paling sesuai dengan kebutuhan dan anggaran Anda?"
+    },
+    {
+      "role": "user",
+      "text": "yang udah include makan 5 orang yang mana"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu, perlu saya informasikan bahwa untuk semua tipe kamar di Hotel Maju Jaya, **sarapan yang sudah termasuk dalam harga kamar adalah untuk dua orang**.\n\nJika Anda menginap berlima, sarapan untuk tiga orang lainnya akan dikenakan biaya tambahan sebesar **Rp50.000 per orang**.\n\nUntuk kamar yang dapat menampung 5 orang, kami memiliki pilihan berikut:\n\n*   **Family Suite**: Kamar ini memiliki kapasitas hingga 5 orang. Harga normalnya Rp 1.250.000 per malam, dan saat ini ada **Diskon Liburan Keluarga 10%**, sehingga harganya menjadi **Rp 1.125.000 per malam**.\n*   **Presidential Suite**: Kamar ini dapat menampung hingga 6 orang. Harga normalnya Rp 3.500.000 per malam, dan sedang ada **VIP Promo 25%**, jadi harganya **Rp 2.625.000 per malam**.\n\nKedua tipe kamar ini sangat luas dan nyaman untuk rombongan Anda. Sarapan untuk 2 orang sudah termasuk, dan untuk 3 orang tambahan dikenakan biaya Rp50.000 per orang.\n\nApakah ada tipe kamar yang Bapak/Ibu minati dari pilihan tersebut, atau ada pertanyaan lain yang ingin Anda diskusikan?"
+    },
+    {
+      "role": "user",
+      "text": "taknak biaya tambahan"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf sekali, Bapak/Ibu. Berdasarkan kebijakan Hotel Maju Jaya, **semua harga kamar kami sudah termasuk sarapan untuk dua orang**.\n\nUntuk tamu tambahan di luar kapasitas dua orang tersebut, akan dikenakan biaya sarapan sebesar **Rp50.000 per orang**. Ini berlaku untuk semua tipe kamar kami. Jadi, untuk rombongan lima orang, sarapan untuk tiga orang sisanya akan tetap dikenakan biaya tambahan.\n\nKami memahami keinginan Anda untuk tidak ada biaya tambahan. Namun, untuk sarapan lebih dari dua orang, kebijakan tersebut berlaku di hotel kami.\n\nKami tetap menawarkan kamar-kamar yang nyaman untuk lima orang, seperti **Family Suite** yang berkapasitas 5 orang (saat ini diskon 10% menjadi Rp 1.125.000 per malam) atau **Presidential Suite** untuk 6 orang (saat ini diskon 25% menjadi Rp 2.625.000 per malam).\n\nApakah ada hal lain yang bisa saya bantu atau pertanyaan lain mengenai fasilitas kamar?"
+    },
+    {
+      "role": "user",
+      "text": "emoh aku emoh"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf sekali, Bapak/Ibu, saya memahami bahwa hal ini kurang sesuai dengan harapan Anda.\n\nSebagai informasi, kebijakan sarapan di Hotel Maju Jaya memang sudah standar termasuk untuk dua orang per kamar. Untuk tamu tambahan di luar dua orang tersebut, biaya sarapan sebesar Rp50.000 per orang memang akan tetap berlaku.\n\nKami selalu berusaha memberikan pelayanan terbaik. Apakah ada hal lain yang bisa saya bantu atau pertanyaan lain mengenai fasilitas atau tipe kamar yang mungkin sesuai dengan kebutuhan rombongan Anda, terlepas dari kebijakan sarapan ini?"
+    },
+    {
+      "role": "user",
+      "text": "dahlah ke hotel lain aja aku"
+    },
+    {
+      "role": "model",
+      "text": "Baik Bapak/Ibu, saya sangat memahami keputusan Anda untuk mencari pilihan hotel lain yang lebih sesuai dengan kebutuhan rombongan dan keinginan Anda terkait sarapan.\n\nTerima kasih banyak sudah menghubungi Hotel Maju Jaya. Jika di kemudian hari ada pertanyaan atau jika Anda ingin mempertimbangkan hotel kami lagi, jangan sungkan untuk menghubungi saya kembali. Semoga Anda menemukan akomodasi yang paling cocok."
+    },
+    {
+      "role": "user",
+      "text": "cancel yak"
+    },
+    {
+      "role": "model",
+      "text": "Baik Bapak/Ibu, saya memahami permintaan Anda.\n\nNamun, sebagai Resepsionis AI, saya tidak memiliki akses langsung untuk membuat atau membatalkan reservasi secara sistem. Dalam percakapan kita sebelumnya juga tidak ada reservasi yang berhasil dibuat melalui saya.\n\nJika Anda memiliki reservasi yang ingin dibatalkan, mohon untuk langsung menghubungi resepsionis kami melalui telepon atau WhatsApp di nomor **081515329143**. Mereka akan dengan senang hati membantu Anda dalam proses pembatalan.\n\nTerima kasih atas pengertiannya."
+    }
+  ],
+  "6282299740220": [
+    {
+      "role": "user",
+      "text": "tidak batal kok jadi"
+    },
+    {
+      "role": "model",
+      "text": "Baik Bapak/Ibu, saya mengerti bahwa Anda tidak jadi membatalkan reservasi dan ingin melanjutkan prosesnya.\n\nUntuk reservasi tanggal **31 Desember 2025 hingga 1 Januari 2026** untuk **2 orang**, mengingat kendala sistem yang masih berlangsung, saya sarankan untuk langsung melanjutkan prosesnya melalui WhatsApp.\n\nIni adalah cara tercepat agar tim resepsionis kami dapat segera membantu Bapak/Ibu.\n\nSilakan klik tautan berikut untuk terhubung dengan kami di WhatsApp: [https://wa.me/6281515329143](https://wa.me/6281515329143)\n\nMereka akan siap membantu Anda menyelesaikan reservasi ini. Terima kasih atas pengertian dan kesabaran Bapak/Ibu."
+    },
+    {
+      "role": "user",
+      "text": "gimana nihh bro"
+    },
+    {
+      "role": "model",
+      "text": "Selamat siang Bapak/Ibu, saya Jaya. Mohon maaf atas kendala yang masih Bapak/Ibu alami.\n\nSaya memahami bahwa Bapak/Ibu ingin melanjutkan proses reservasi untuk tanggal **31 Desember 2025 hingga 1 Januari 2026** untuk **2 orang**. Karena masalah teknis pada sistem kami yang belum pulih, saya sangat menyarankan Bapak/Ibu untuk langsung menghubungi tim resepsionis kami melalui WhatsApp.\n\nMereka dapat segera membantu Bapak/Ibu menyelesaikan reservasi ini secara manual.\n\nSilakan klik tautan berikut untuk terhubung langsung dengan kami di WhatsApp: [https://wa.me/6281515329143](https://wa.me/6281515329143)\n\nKami sangat menghargai kesabaran dan pengertian Bapak/Ibu. Terima kasih."
+    },
+    {
+      "role": "user",
+      "text": "ada air enggak"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu. Sebagai Resepsionis AI, saya membutuhkan informasi lebih spesifik mengenai 'air' yang Bapak/Ibu maksud. Apakah Bapak/Ibu mencari informasi tentang ketersediaan air minum di kamar, air untuk mandi, atau fasilitas air lainnya?\n\nJika Bapak/Ibu bisa menjelaskan lebih lanjut, saya akan dengan senang hati membantu mencari informasinya. Terima kasih."
+    },
+    {
+      "role": "user",
+      "text": "boleh bawa guguk enggak"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu. Berdasarkan kebijakan hotel kami, hewan peliharaan tidak diizinkan masuk ke dalam area hotel.\n\nTerima kasih atas pengertiannya."
+    },
+    {
+      "role": "user",
+      "text": "beneran nih"
+    },
+    {
+      "role": "model",
+      "text": "Baik, Bapak/Ibu. Saya mengonfirmasi kembali informasi mengenai hewan peliharaan.\n\nSesuai dengan kebijakan Hotel Maju Jaya, mohon maaf, secara umum kami tidak mengizinkan hewan peliharaan di area hotel. Namun, ada pengecualian untuk kucing, di mana kucing diperbolehkan.\n\nTerima kasih atas pengertiannya."
+    },
+    {
+      "role": "user",
+      "text": "boleh merokok didalam kamar"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu. Sebagai Resepsionis AI, saya tidak memiliki informasi spesifik dalam basis data saya mengenai kebijakan merokok di dalam kamar Hotel Maju Jaya.\n\nUntuk mendapatkan informasi yang paling akurat mengenai hal ini, saya sarankan Bapak/Ibu untuk menghubungi langsung tim resepsionis kami.\n\nBapak/Ibu dapat menghubungi kami melalui WhatsApp di nomor **6281515329143** atau menelepon di **081515329143**. Mereka akan dengan senang hati membantu memberikan klarifikasi.\n\nTerima kasih atas pengertiannya."
+    },
+    {
+      "role": "user",
+      "text": "apa ada kamar bebas rokok"
+    },
+    {
+      "role": "model",
+      "text": "Mohon maaf, Bapak/Ibu. Sebagai Resepsionis AI, saya tidak memiliki informasi spesifik dalam basis data saya mengenai ketersediaan kamar bebas rokok di Hotel Maju Jaya.\n\nUntuk mendapatkan informasi yang paling akurat dan terkini mengenai hal ini, saya sarankan Bapak/Ibu untuk menghubungi langsung tim resepsionis kami.\n\nBapak/Ibu dapat menghubungi kami melalui WhatsApp di nomor **6281515329143** atau menelepon di **081515329143**. Mereka akan dengan senang hati membantu memberikan klarifikasi.\n\nTerima kasih atas pengertiannya."
+    }
+  ],
+  "6285855068116": [
+    {
+      "role": "user",
+      "text": "..."
+    },
+    {
+      "role": "model",
+      "text": "👋 Halo! Saya Jaya, asisten virtual Hotel Maju Jaya.\n\nAda yang bisa saya bantu terkait info kamar, fasilitas, atau reservasi? 😊"
+    },
+    {
+      "role": "user",
+      "text": "Ada kamar ready?"
+    },
+    {
+      "role": "model",
+      "text": "Tentu saja! Selamat datang di Hotel Maju Jaya.\n\nSaat ini, kami memiliki beberapa tipe kamar yang tersedia untuk Anda:\n\n*   **Standard Room:**\n    *   Harga per malam: Rp 450.000\n    *   Kapasitas: 2 orang\n    *   Fasilitas: AC, TV, Kamar mandi dalam, Wi-Fi gratis\n    *   Kami juga punya kamar Standard dengan diskon 10% (Promo Awal Minggu) menjadi **Rp 405.000**.\n\n*   **Superior Room:**\n    *   Harga per malam: Rp 550.000\n    *   Kapasitas: 2 orang\n    *   Fasilitas: AC, TV, Air panas, Balkon kecil, Wi-Fi gratis\n    *   Tersedia dengan diskon 5% (Diskon Member) menjadi **Rp 522.500**.\n\n*   **Deluxe Room:**\n    *   Harga per malam: Rp 650.000\n    *   Kapasitas: 3 orang\n    *   Fasilitas: AC, TV, Air panas, Balkon, Wi-Fi gratis, Sarapan\n    *   Tersedia dengan diskon 15% (Diskon Akhir Pekan) menjadi **Rp 552.500**.\n\n*   **Suite Room:**\n    *   Harga per malam: Rp 950.000\n    *   Kapasitas: 4 orang\n    *   Fasilitas: AC, TV, Bathtub, Balkon, Ruang tamu, Wi-Fi, Sarapan\n    *   Tersedia dengan diskon 20% (Promo Musim Liburan) menjadi **Rp 760.000**.\n\n*   **Family Suite:**\n    *   Harga per malam: Rp 1.250.000\n    *   Kapasitas: 5 orang\n    *   Fasilitas: 2 Kamar tidur, Ruang tamu, Dapur kecil, Balkon, Wi-Fi\n    *   Tersedia dengan diskon 10% (Diskon Liburan Keluarga) menjadi **Rp 1.125.000**.\n\n*   **Presidential Suite:**\n    *   Harga per malam: Rp 3.500.000\n    *   Kapasitas: 6 orang\n    *   Fasilitas: 3 Kamar tidur, Jacuzzi, Ruang tamu luas, Private bar, Balkon besar\n    *   Tersedia dengan diskon 25% (VIP Promo) menjadi **Rp 2.625.000**.\n\nJika Anda tertarik untuk melakukan reservasi, mohon klik tautan WhatsApp ini: [wa.me/6281515329143](https://wa.me/6281515329143)\n\nApakah ada tipe kamar tertentu yang ingin Anda ketahui lebih lanjut? 😊"
+    },
+    {
+      "role": "user",
+      "text": "Apa include breakfast?"
+    },
+    {
+      "role": "model",
+      "text": "Tentu, Bapak/Ibu. Untuk pertanyaan mengenai sarapan, berdasarkan informasi kami:\n\nYa, semua harga kamar sudah termasuk sarapan untuk dua orang.\n\nApakah ada hal lain yang ingin Anda tanyakan, Bapak/Ibu? 😊"
+    },
+    {
+      "role": "user",
+      "text": "Kapan early checkin? Dan max checkout?"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu. Saya Jaya, siap membantu Anda.\n\nMengenai pertanyaan Anda tentang check-in dan check-out, berikut informasinya:\n\nUntuk **jam check-in** standar kami adalah mulai pukul 14:00 WIB. Terkait dengan kebijakan *early check-in*, mohon maaf, data spesifik mengenai prosedur dan ketentuannya tidak tersedia dalam sumber informasi saya saat ini. Namun, Anda bisa menghubungi resepsionis kami langsung untuk menanyakan ketersediaan dan ketentuan lebih lanjut di nomor **081515329143**.\n\nSedangkan untuk **check-out maksimal**, standar kami adalah pukul 12:00 WIB. Apabila Anda membutuhkan *late check-out*, hal itu bisa dilakukan hingga pukul 15:00 WIB jika kamar tersedia, dengan tambahan biaya 50% dari tarif kamar.\n\nSemoga informasi ini membantu Anda, Bapak/Ibu. Apakah ada hal lain yang bisa saya bantu? 😊"
+    }
+  ]
+}

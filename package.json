@@ -1,0 +1,16 @@
+{
+  "name": "projek-hotelbot",
+  "version": "1.0.0",
+  "scripts": {
+    "install-venv":"python -m venv backend/venv",
+    "install-all": "npm run install:fe && npm run install:be",
+    "install:fe": "cd frontend/HotelBot && npm install",
+    "install:be": "cd backend && pip install -r requirements.txt",
+    "frontend": "cd frontend/HotelBot && node hotelBot.js",
+    "backend": "cd backend/data_hotel && python manage.py runserver",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\" --names \"BACKEND,FRONTEND\" --prefix-colors \"blue,magenta\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1" 
+  }
+} 

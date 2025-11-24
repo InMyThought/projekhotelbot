@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "hotelbot",
+  "version": "1.0.0",
+  "main": "hotelBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.6",
+    "axios": "^1.12.2",
+    "baileys": "^7.0.0-rc.6",
+    "dotenv": "^17.2.3",
+    "pino": "^10.1.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
