@@ -229,11 +229,11 @@ class ChatbotAPIView(APIView):
         
         try:
             intents = get_intents_from_message(user_message)
-            print(f"💡 [RAG] Intents terdeteksi: {intents}")
+            print(f"[RAG] Intents terdeteksi: {intents}")
             context_data = retrieve_context_data(intents)
             final_prompt = build_final_prompt(user_message, history, context_data)
         except Exception as e:
-            print(f"🔥 [RAG LOGIC ERROR] Terjadi error di rag_router: {e}")
+            print(f"[RAG LOGIC ERROR] Terjadi error di rag_router: {e}")
             ai_response = "Mohon maaf, terjadi kesalahan internal saat memproses data hotel kami. Silakan coba lagi."
             return Response({"reply": ai_response}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
         

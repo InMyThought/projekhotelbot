@@ -2,39 +2,7 @@
   "6285187269581": [
     {
       "role": "user",
-      "text": "saya ada 10 orang 1 wanita 9 laki laki mau honeymoon giman ya"
-    },
-    {
-      "role": "model",
-      "text": "Selamat pagi, Bapak/Ibu.\n\nTerima kasih atas minat Anda di Hotel Maju Jaya. Untuk kebutuhan akomodasi 10 orang dengan permintaan khusus seperti bulan madu, kami sarankan Anda untuk langsung mengunjungi **website resmi** kami.\n\nDi sana, Anda bisa melihat berbagai pilihan kamar, mengecek ketersediaan untuk jumlah tamu yang Anda sebutkan, serta mencari tahu mengenai paket atau penawaran khusus yang mungkin cocok untuk rombongan Anda.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
-    },
-    {
-      "role": "user",
       "text": "halo"
-    },
-    {
-      "role": "model",
-      "text": "Halo, Bapak/Ibu. Selamat datang di Hotel Maju Jaya.\n\nAda yang bisa saya bantu hari ini?"
-    },
-    {
-      "role": "user",
-      "text": "apa ada kmar"
-    },
-    {
-      "role": "model",
-      "text": "Selamat pagi, Bapak/Ibu.\n\nTentu, untuk mengecek ketersediaan kamar yang ada di Hotel Maju Jaya secara real-time, Anda bisa langsung mengunjungi **website resmi** kami. Di sana, Anda bisa melihat semua pilihan kamar serta ketersediaannya.\n\nSilakan cek langsung di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
-    },
-    {
-      "role": "user",
-      "text": "saran kamar"
-    },
-    {
-      "role": "model",
-      "text": "Halo, Bapak/Ibu. Selamat datang di Hotel Maju Jaya.\n\nUntuk mendapatkan gambaran lengkap mengenai tipe-tipe kamar yang kami sediakan dan membantu Anda memilih yang paling sesuai dengan kebutuhan, saya sarankan Anda untuk mengunjungi **website resmi** kami. Di sana, Anda bisa melihat deskripsi detail setiap kamar, fasilitasnya, serta gambar-gambar yang dapat membantu Anda dalam membuat keputusan.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nJika ada pertanyaan lain setelah melihat-lihat di website, jangan ragu untuk bertanya kepada saya."
-    },
-    {
-      "role": "user",
-      "text": "saya ada 10 orang mau nginep di hotel saranya apa yang cocok"
     },
     {
       "role": "model",
@@ -42,54 +10,54 @@
     },
     {
       "role": "user",
-      "text": "saya ada 10 orang mau nginep di hotel saranya apa yang cocok"
+      "text": "halo"
     },
     {
       "role": "model",
-      "text": "Selamat pagi, Bapak/Ibu.\n\nUntuk rombongan 10 orang yang ingin menginap di Hotel Maju Jaya, kami sangat merekomendasikan Anda untuk mengunjungi **website resmi** kami.\n\nDi sana, Anda bisa melihat berbagai pilihan tipe kamar yang tersedia beserta kapasitasnya secara lengkap, sehingga Anda dapat memilih kombinasi kamar yang paling sesuai dan nyaman untuk rombongan Anda.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
+      "text": "🙏 Maaf, sistem sedang sibuk. Silakan coba lagi beberapa saat lagi."
     },
     {
       "role": "user",
-      "text": "kalau 3 orang"
+      "text": "hali"
     },
     {
       "role": "model",
-      "text": "Mohon maaf, sistem sedang mengalami kendala."
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu. Dengan Sarah dari Hotel Maju Jaya.\n\nAda yang bisa saya bantu hari ini?"
+    },
+    {
+      "role": "user",
+      "text": "apa aad kamar kosng?"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu. Dengan Sarah dari Hotel Maju Jaya.\n\nUntuk mengecek ketersediaan kamar, saya tidak bisa melihat data real-time saat ini. Namun, Bapak/Ibu bisa langsung mengunjungi website resmi kami untuk informasi ketersediaan terkini dan melakukan pemesanan.\n\nSilakan kunjungi di sini: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "apa ada yang cocok untuk kamar honeymoon butuh bathub saja"
+    },
+    {
+      "role": "model",
+      "text": "Tentu, Bapak/Ibu. Untuk kebutuhan honeymoon dengan fasilitas bathtub, saya sangat merekomendasikan **Suite** kami. Tipe kamar ini dilengkapi dengan bathtub dan juga memiliki ruang tamu terpisah yang akan menambah kenyamanan dan privasi Anda selama menginap.\n\nUntuk mengecek ketersediaan dan harga spesifik di tanggal yang Bapak/Ibu inginkan, silakan kunjungi langsung website resmi Hotel Maju Jaya di: **http://192.168.22.31:8000**\n\nApakah ada hal lain yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "selain itu anda bisa bantu apa saja"
+    },
+    {
+      "role": "model",
+      "text": "Tentu, Bapak/Ibu. Sebagai resepsionis AI dari Hotel Maju Jaya, saya bisa membantu Anda dengan beberapa hal lain, antara lain:\n\n1.  **Memberikan rekomendasi tipe kamar** yang sesuai dengan kebutuhan Anda, berdasarkan kapasitas dan fasilitas yang dicari.\n2.  **Menjawab pertanyaan umum** seputar fasilitas hotel, layanan, atau kebijakan yang berlaku di Hotel Maju Jaya.\n3.  **Mengarahkan Anda ke website resmi** kami untuk informasi lebih detail mengenai ketersediaan kamar, harga spesifik, dan untuk melakukan proses pemesanan.\n4.  **Menjelaskan prosedur check-in** jika Anda memerlukannya.\n\nSilakan sampaikan pertanyaan atau kebutuhan Anda, saya siap membantu."
+    },
+    {
+      "role": "user",
+      "text": "prosesur check in gimana ya"
+    },
+    {
+      "role": "model",
+      "text": "Baik, Bapak/Ibu. Untuk prosedur check-in di Hotel Maju Jaya, langkah-langkahnya cukup mudah:\n\n1.  Anda dapat langsung menuju ke area lobi kami.\n2.  Silakan temui staf resepsionis kami yang ramah di sana.\n3.  Anda hanya perlu menunjukkan kartu identitas diri yang valid, seperti KTP, untuk verifikasi data reservasi Anda.\n\nWaktu check-in kami dimulai pukul 06:00:00. Jika Anda memiliki pertanyaan lebih lanjut atau membutuhkan bantuan saat tiba, jangan ragu untuk menghubungi resepsionis kami di nomor: **081515329143**.\n\nAda hal lain yang bisa saya bantu?"
     }
   ],
   "6281270421387": [
-    {
-      "role": "user",
-      "text": "Iya vid"
-    },
-    {
-      "role": "model",
-      "text": "Mohon maaf, sistem sedang mengalami kendala."
-    },
-    {
-      "role": "user",
-      "text": "David"
-    },
-    {
-      "role": "model",
-      "text": "Mohon maaf, Bapak/Ibu. Sebagai Resepsionis AI Hotel Maju Jaya, saya hanya dapat memberikan informasi terkait kamar, fasilitas, reservasi, atau pertanyaan umum seputar hotel kami. Apakah ada yang bisa saya bantu terkait layanan hotel?"
-    },
-    {
-      "role": "user",
-      "text": "iya??"
-    },
-    {
-      "role": "model",
-      "text": "Baik, Bapak/Ibu. Apakah ada yang ingin Anda tanyakan mengenai kamar, fasilitas, atau mungkin ada hal lain terkait Hotel Maju Jaya yang bisa saya bantu?"
-    },
-    {
-      "role": "user",
-      "text": "recomendasi kamar untuk 30 orang"
-    },
-    {
-      "role": "model",
-      "text": "Baik, Bapak/Ibu. Untuk rombongan sebanyak 30 orang, Anda akan membutuhkan beberapa kamar. Tipe kamar terbesar kami adalah **Presidential Suite** yang memiliki kapasitas untuk 6 orang per kamar. Anda dapat mempertimbangkan untuk memesan beberapa kamar tipe tersebut.\n\nUntuk detail lengkap mengenai pemesanan grup dan ketersediaan, serta untuk melakukan pemesanan, silakan kunjungi website resmi kami: http://192.168.22.31:8000. Kami akan dengan senang hati membantu Anda merencanakan akomodasi yang sesuai."
-    },
     {
       "role": "user",
       "text": "kalau untuk bulan madu enaknya kamar apa"
@@ -113,6 +81,38 @@
     {
       "role": "model",
       "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nHotel Maju Jaya beroperasi 24 jam setiap hari, sehingga kami tidak memiliki hari tutup. Kami siap melayani Anda kapan saja.\n\nApakah ada hal lain yang bisa saya bantu terkait informasi kamar, fasilitas, atau layanan hotel kami?"
+    },
+    {
+      "role": "user",
+      "text": "Hallo"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nSelamat datang di Hotel Maju Jaya. Saya Sarah, resepsionis AI yang siap membantu Anda. Ada yang bisa saya bantu hari ini?"
+    },
+    {
+      "role": "user",
+      "text": "Cara chek in"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nUntuk proses check-in di Hotel Maju Jaya sangat mudah. Anda hanya perlu datang ke lobi kami dan menyampaikan kepada staf resepsionis bahwa Anda akan check-in. Mohon siapkan Kartu Tanda Penduduk (KTP) Anda sebagai identitas diri.\n\nJika ada pertanyaan lebih lanjut atau Anda memerlukan bantuan selama proses ini, jangan ragu untuk menghubungi resepsionis kami di nomor: 081515329143.\n\nApakah ada hal lain yang bisa saya bantu?"
+    },
+    {
+      "role": "user",
+      "text": "Kamar hotel"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nBaik, untuk kamar hotel, apakah ada tipe kamar tertentu yang Anda cari, atau mungkin Anda bisa memberitahu saya untuk berapa orang dan fasilitas apa yang Anda butuhkan? Saya akan dengan senang hati membantu merekomendasikan yang paling sesuai."
+    },
+    {
+      "role": "user",
+      "text": "Ada kamar apa aja"
+    },
+    {
+      "role": "model",
+      "text": "Selamat pagi/siang/sore, Bapak/Ibu.\n\nDi Hotel Maju Jaya, kami memiliki berbagai tipe kamar yang dirancang untuk kenyamanan Anda. Berikut adalah beberapa pilihan kamar kami:\n\n*   **Standard:** Cocok untuk 2 orang, dilengkapi AC, TV, kamar mandi dalam, dan Wi-Fi gratis.\n*   **Superior:** Untuk 2 orang, dengan AC, TV, air panas, balkon kecil, dan Wi-Fi gratis.\n*   **Deluxe:** Ideal untuk 3 orang, dilengkapi AC, TV, air panas, balkon, Wi-Fi gratis, dan sarapan.\n*   **Suite:** Untuk 4 orang, memiliki fasilitas AC, TV, bathtub, balkon, ruang tamu terpisah, Wi-Fi, dan sarapan.\n*   **Family Suite:** Kapasitas 5 orang, dengan 2 kamar tidur, ruang tamu, dapur kecil, balkon, dan Wi-Fi.\n*   **Presidential Suite:** Tipe kamar terbesar kami dengan kapasitas 6 orang, dilengkapi 3 kamar tidur, Jacuzzi, ruang tamu luas, private bar, dan balkon besar.\n\nUntuk melihat detail lengkap setiap tipe kamar, fasilitas yang lebih spesifik, ketersediaan terkini, dan harga, Bapak/Ibu bisa langsung mengunjungi website resmi kami di: http://10.196.109.90:8000.\n\nApakah ada tipe kamar tertentu yang menarik perhatian Anda, atau apakah ada hal lain yang bisa saya bantu?"
     }
   ],
   "628980006817-1601206596": [

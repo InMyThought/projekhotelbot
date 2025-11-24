@@ -75,7 +75,7 @@ def retrieve_context_data(intents):
 
     # Logika RAG Cerdas
     if 'KAMAR' in intents:
-        print("🔍 [RAG] Mengambil data SAMPEL Kamar...")
+        print("[RAG] Mengambil data SAMPEL Kamar...")
         tipe_kamar_unik = Kamar.objects.values_list('tipe_kamar', flat=True).distinct()
         kamar_sampel = []
         for tipe in tipe_kamar_unik:
@@ -83,22 +83,22 @@ def retrieve_context_data(intents):
             if kamar: kamar_sampel.append(kamar)
         kamar_serializer = KamarSerializer(kamar_sampel, many=True)
         context_data['DATA_KAMAR_JSON'] = json.dumps(kamar_serializer.data, indent=2)
-        print("ℹ️ [RAG] Data Reservasi sengaja tidak diambil.")
+        print(" [RAG] Data Reservasi sengaja tidak diambil.")
 
     if 'FASILITAS' in intents:
-        print("🔍 [RAG] Mengambil data Fasilitas...")
+        print("[RAG] Mengambil data Fasilitas...")
         fasilitas_objects = FasilitasUmum.objects.all()
         fasilitas_serializer = FasilitasUmumSerializer(fasilitas_objects, many=True)
         context_data['DATA_FASILITAS_JSON'] = json.dumps(fasilitas_serializer.data, indent=2)
 
     if 'PELAYANAN' in intents:
-        print("🔍 [RAG] Mengambil data Pelayanan...")
+        print("[RAG] Mengambil data Pelayanan...")
         pelayanan_objects = Pelayanan.objects.all()
         pelayanan_serializer = PelayananSerializer(pelayanan_objects, many=True)
         context_data['DATA_PELAYANAN_JSON'] = json.dumps(pelayanan_serializer.data, indent=2)
 
     if 'FAQ' in intents:
-        print("🔍 [RAG] Mengambil data FAQ...")
+        print("[RAG] Mengambil data FAQ...")
         faq_objects = FAQ.objects.all()
         faq_serializer = FAQSerializer(faq_objects, many=True)
         # Ini adalah perbaikan dari error .data sebelumnya
